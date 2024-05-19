@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "fa3c",
+      "cityName": "Mezieres-sous-Lavardin",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "notes": "",
+      "date": "2024-04-10T16:29:22.397Z",
+      "position": {
+        "lat": "48.150369483238734",
+        "lng": "0.04988680569867566"
+      }
+    },
+    {
+      "id": "ade9",
+      "cityName": "Dover",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "notes": "ss",
+      "date": "2024-04-10T16:29:24.950Z",
+      "position": {
+        "lat": "51.21953549408946",
+        "lng": "1.260937016951771"
+      }
+    },
+    {
+      "id": "8de6",
+      "cityName": "Castelnau-Montratier",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "notes": "",
+      "date": "2024-04-10T16:30:34.618Z",
+      "position": {
+        "lat": "44.307010450772665",
+        "lng": "1.349153699505368"
+      }
+    },
+    {
+      "id": "9902",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "notes": "s",
+      "date": "2024-04-10T16:38:33.114Z",
+      "position": {
+        "lat": "51.52072770293617",
+        "lng": "0.07191380487427514"
+      }
+    }
+  ]
+}

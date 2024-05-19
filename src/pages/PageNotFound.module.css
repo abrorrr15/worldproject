@@ -1,0 +1,13 @@
+.app{
+  background-color: var(--color-dark--0);
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text{
+  font-size: 3em;
+  color: var(--color-brand--2);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
